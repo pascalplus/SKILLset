@@ -1,0 +1,14 @@
+interface:
+  display_name: Frontend Design Critique & Audit
+  short_description: Audit and improve frontend design and code quality.
+  default_prompt: Audit this interface, report the design and code issues, then improve
+    it using a deliberate visual direction.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
